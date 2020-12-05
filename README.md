@@ -9,3 +9,4 @@ hence this reduces the efficiency of employees. The Employee Tracking App is an 
 attendance of the employee by using GPS and Geofencing. The system engineer sets the fence around which
 attendance will be accepted. The employee gives the attendance being in the geofence and if the employee goes out
 of the fence then he/she won't be allowed to mark their attendance.
+For more details and screenshots of the app, refer to the G-BEAST_project_report.pdf
